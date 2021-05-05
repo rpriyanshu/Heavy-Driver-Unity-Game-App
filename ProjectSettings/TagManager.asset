@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tunnel
+  - start
+  - end
+  - obstacle
+  - obstacle1
+  - obstacle2
+  - obstacle3
+  - obstacle4
+  - obstacle5
+  - obstacle6
+  - obstacle7
+  - Taxi
+  - Normal
+  - Divider
+  - Police
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Roads
+    uniqueID: 2105689571
+    locked: 0
+  - name: Finish Line
+    uniqueID: 1786658375
+    locked: 0
+  - name: Cars
+    uniqueID: 4192400847
+    locked: 0
